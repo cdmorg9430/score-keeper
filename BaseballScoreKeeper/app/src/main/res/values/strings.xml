@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Baseball Score Keeper</string>
+    <string name="team1">Home</string>
+    <string name="team2">Visitor</string>
+    <string name="inning">Inning</string>
+    <string name="outs">Outs</string>
+    <string name="outbtn">Out</string>
+    <string name="balls">Balls</string>
+    <string name="hit">Hit</string>
+    <string name="strikes">Strikes</string>
+    <string name="homeTeamPoint">Home Team Run</string>
+    <string name="visitorTeamPoint">Visiting Team Run</string>
+    <string name="resetApp">End of Game (Resets data)</string>
+</resources>
